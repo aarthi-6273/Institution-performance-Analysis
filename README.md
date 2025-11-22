@@ -76,7 +76,7 @@ Explore dashboards using filters and visual interactions
 
 Export insights if required
 
-🔧 Further Enhancements (Optional)
+🔧 Further Enhancements:
 
 You may extend this project by adding:
 
